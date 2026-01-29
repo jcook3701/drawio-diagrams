@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/github/license/jcook3701/drawio-diagrams)](LICENSE.md)
 
-__Author:__ Jared Cook
-__Version:__ 0.1.0
+__Author:__ Jared Cook  
+__Version:__ 0.1.0  
 
 ## Overview
 
