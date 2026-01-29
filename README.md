@@ -9,6 +9,6 @@ __Version:__ 0.1.0
 
 Repository for storing documentation generated on draw.io web app.  
 
-## Cookiecutter Architecture
+## Cookiecutter Project Architecture
 
-![Architecture Diagram](./cookiecutter-cookiecutter.drawio.svg)  
+[![Architecture Diagram](./cookiecutter-cookiecutter.drawio.svg)](./cookiecutter-cookiecutter.drawio.svg)  
