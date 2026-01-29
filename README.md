@@ -7,6 +7,8 @@ __Version:__ 0.1.0
 
 ## Overview
 
-Repository for storing documentation generated on draw.io web app.
+Repository for storing documentation generated on draw.io web app.  
 
+## Cookiecutter Architecture
 
+![Architecture Diagram](./cookiecutter-cookiecutter.drawio.svg)  
